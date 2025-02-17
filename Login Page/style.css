@@ -1,0 +1,141 @@
+.tab1 {
+    background-color: rgb(29, 28, 28);
+    color: white;
+}
+h2{
+    color: white;
+    display: flex;
+    background-color: rgb(29, 28, 28);
+    /* margin-right: 20px; */
+    padding-right: 20px;
+}
+ul{
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    text-decoration: none;
+    text-decoration-color: none;
+    margin-left: 1200px;
+    background-color: rgb(29, 28, 28);
+    color: rgb(227, 218, 218);
+    padding: 0px;
+    border: 0px;
+    justify-content: space-between;
+    padding-right: 20px;
+    height: 0px;
+
+    
+}
+.icons{
+    color: white;
+    margin-top: -35px;
+    padding-left: 0px;
+    margin-right: -5px;
+    background-color: rgb(29, 28, 28);
+}
+.container{
+    width: 400px;
+    margin-left: 500px;
+    background-color: rgb(29, 28, 28);
+    color: white;
+}
+.label input{
+    height: 40px;
+    width: 395px;
+    margin-bottom: 20px;
+}
+.label button{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: red;
+    color: white;
+    border: 0px;
+
+}
+.btn button{
+    
+    height: 40px;
+    width: 120px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 8px;
+    border: 0px;
+    
+} 
+ .h1{
+    width: 150px;
+    position: relative;
+    top: 28px;
+    left: 50px;
+    margin-right: 50px;
+ }
+ .h2{
+    width: 130px;
+    position: relative;
+    bottom: 25px;
+    right: 130px;
+ }
+ .par{
+    margin-left: 150px;
+ }
+ .Techfooter{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-top: 60px;  
+}
+.techshop{
+    color: rgb(250, 251, 252);
+    padding-left: 10px;
+}
+.techshop input{
+    height: 30px;
+    width: 400px;
+}
+.techshop button{
+    height: 35px;
+    width: 100px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-left: 0px;
+    border: 0px;
+    
+}
+.help{
+    color: rgb(248, 250, 251);
+    text-align: start;
+    
+}
+.help h3{
+text-align: start;
+}
+.Policies{
+    color: rgb(251, 253, 255);
+    text-align: start;
+}
+.Policies h3{
+    text-align: start;
+}
+.Company{
+    color: rgb(248, 250, 252);
+    text-align: start;
+    padding-right: 10px;
+}
+.Company h3{
+    text-align: start;
+}
+.footer{
+    color: rgb(252, 253, 253);
+    display: flex;
+    background-color: black;
+}
+.footerIcons{
+    margin: 30px;
+    margin-left: 700px;
+}
+
+.text p{
+    margin-top:-10px;
+}

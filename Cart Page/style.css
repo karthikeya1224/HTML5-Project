@@ -1,0 +1,196 @@
+.icons ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 25px;
+    margin-left: 1075px;
+    gap: 50px;
+}
+.heading{
+    display: flex;
+    background-color: rgb(25, 24, 24);
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(25, 24, 24);
+    color: white;
+}
+.cart1 img{
+    height: 180px;
+    width: 250px;
+    display: flex;
+    /* padding-top: 30px; */
+}
+.cart1{
+    display: flex;
+    height: 250px;
+    width: 650px;
+    border: 0px solid grey;
+    margin-top: 30px;
+    padding-top: 50px;
+    gap: 10px;
+    margin-left: 50px;
+}
+.cart1 i{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.numbers{
+    display: flex;
+    gap: 15px;
+    height: 30px;
+    width: 120px;
+    background-color: rgb(28, 26, 26);
+    border: 1.5px solid rgb(63, 61, 61);
+    margin: 0%;
+    /* align-items: center; */
+    align-content: center;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.numbers h4{
+    height:25px ;
+    width: 100%;
+    background-color: rgb(40, 37, 37);
+    margin-left:0px;
+    text-align: center;
+    margin-top: -0.5px;
+    padding-top: 5px;
+    font-size: 20px;
+    margin-bottom: -0.5px;
+    border: 0px;
+}
+.numbers h3{
+  
+    color: red;
+    margin-left:0px;
+    text-align: center;
+    margin-top: -0.4px;
+    padding-top: 5px;
+    font-size: 20px;
+
+}
+.flex{
+    display: flex;
+}
+.whole{
+    margin-left: 325px;
+    margin-top: -180px;
+}
+.cart1 p{
+    font-size: large;
+}
+.cart{
+    border: 0px solid grey;
+    /* width: 700px; */
+    /* background-color: rgb(35, 36, 39);
+    height: 950px; */
+    margin-top: 100px;
+    background-color: rgb(30, 29, 29); 
+    height: 500px;
+    overflow: auto;
+}
+.whole hr{
+ margin-right: 50px;
+ margin-left: -285px;
+ margin-top: 80px;
+ gap: 15px;
+}
+.description{
+    margin-top: 80px;
+}
+.discount{
+    display: flex;
+}
+.dis{
+    margin-top: 14px;
+}
+.orgprice{
+    margin-left: 220px;
+    margin-top: 15px;
+} 
+.disprice{
+    margin-left: 250px;
+    margin-top: 30px;
+    color: green;
+}
+.free{
+    margin-left: 270px;
+    margin-top: 30px;
+    color: green;
+}
+.tprice{
+    margin-left: 250px;
+    margin-top: 3px;
+}
+.description{
+    color: rgb(252, 253, 254);
+    margin-left: 250px;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+.bigg{
+    display: flex;
+}
+.Techfooter{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-top: 60px;  
+    padding-left: 10px;
+}
+.techshop{
+    color: rgb(245, 247, 248);
+    margin: 5px;
+}
+.techshop input{
+    height: 30px;
+    width: 400px;
+}
+.techshop button{
+    height: 35px;
+    width: 100px;
+    background-color: red;
+    color: rgb(248, 250, 251);
+    border-radius: 5px;
+    margin-left: 0px;
+    border: 0px;
+    
+}
+.help{
+    color: rgb(249, 251, 252);
+    text-align: start;
+    
+}
+.help h3{
+text-align: start;
+}
+.Policies{
+    color: rgb(250, 251, 253);
+    text-align: start;
+}
+.Policies h3{
+    text-align: start;
+}
+.Company{
+    color: rgb(249, 250, 252);
+    text-align: start;
+    padding-right: 10px;
+}
+.Company h3{
+    text-align: start;
+}
+.footer{
+    color: rgb(248, 251, 253);
+    display: flex;
+    background-color: black;
+}
+.footerIcons{
+    margin: 30px;
+    margin-left: 700px;
+}
+
+.text p{
+    margin-top:-10px;
+}
